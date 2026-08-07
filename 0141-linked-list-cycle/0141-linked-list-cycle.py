@@ -9,7 +9,7 @@ class Solution(object):
         if head is None:
             return
         a=b=head
-        while a and a.next:
+        while a.next and a.next.next:
             a=a.next.next
             b=b.next
             if a==b:

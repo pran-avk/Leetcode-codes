@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/pran-avk/Leetcode-codes/tree/master/0053-maximum-subarray) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/pran-avk/Leetcode-codes/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [2460-apply-operations-to-an-array](https://github.com/pran-avk/Leetcode-codes/tree/master/2460-apply-operations-to-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pran-avk/Leetcode-codes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pran-avk/Leetcode-codes/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/pran-avk/Leetcode-codes/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pran-avk/Leetcode-codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/pran-avk/Leetcode-codes/tree/master/0141-linked-list-cycle) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pran-avk/Leetcode-codes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pran-avk/Leetcode-codes/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Linked List
 |  |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pran-avk/Leetcode-codes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pran-avk/Leetcode-codes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Math
 |  |
 | ------- |

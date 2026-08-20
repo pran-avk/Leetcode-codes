@@ -5,10 +5,7 @@ class Solution(object):
         else:
             a=Counter(nums)
             for key,value in a.items():
-                while value:
-                    if value==1:
-                        return False
-                    else:
-                        value-=2
+                if value%2!=0:
+                    return False
             return True
         

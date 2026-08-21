@@ -1,12 +1,15 @@
 class Solution(object):
     def maxSum(self, nums, k, mul):
+        a=[-x for x in nums]
+        heapq.heapify(a)
         prod=0
-        nums.sort(reverse=True)
         for i in range(k):
-            if mul<1:
-                prod+=nums[i]
+            x=-heapq.heappop(a)
+            if mul<=0:
+                prod+=x
             else:
-                prod+=nums[i]*mul
+                prod+=x*mul
                 mul-=1
         return prod
-        
+                
+

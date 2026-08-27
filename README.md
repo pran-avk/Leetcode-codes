@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/pran-avk/Leetcode-codes/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/pran-avk/Leetcode-codes/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3978-unique-middle-element](https://github.com/pran-avk/Leetcode-codes/tree/master/3978-unique-middle-element) |
+| [4020-elevator-requests-i](https://github.com/pran-avk/Leetcode-codes/tree/master/4020-elevator-requests-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2460-apply-operations-to-an-array](https://github.com/pran-avk/Leetcode-codes/tree/master/2460-apply-operations-to-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pran-avk/Leetcode-codes/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [4020-elevator-requests-i](https://github.com/pran-avk/Leetcode-codes/tree/master/4020-elevator-requests-i) |
 ## Stack
 |  |
 | ------- |

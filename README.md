@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/pran-avk/Leetcode-codes/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/pran-avk/Leetcode-codes/tree/master/0485-max-consecutive-ones) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/pran-avk/Leetcode-codes/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1470-shuffle-the-array](https://github.com/pran-avk/Leetcode-codes/tree/master/1470-shuffle-the-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/pran-avk/Leetcode-codes/tree/master/2206-divide-array-into-equal-pairs) |
 | [2460-apply-operations-to-an-array](https://github.com/pran-avk/Leetcode-codes/tree/master/2460-apply-operations-to-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pran-avk/Leetcode-codes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |

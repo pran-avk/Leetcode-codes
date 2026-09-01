@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/pran-avk/Leetcode-codes/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/pran-avk/Leetcode-codes/tree/master/0485-max-consecutive-ones) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/pran-avk/Leetcode-codes/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0724-find-pivot-index](https://github.com/pran-avk/Leetcode-codes/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/pran-avk/Leetcode-codes/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/pran-avk/Leetcode-codes/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/pran-avk/Leetcode-codes/tree/master/0977-squares-of-a-sorted-array) |
@@ -159,5 +160,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/pran-avk/Leetcode-codes/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/pran-avk/Leetcode-codes/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->

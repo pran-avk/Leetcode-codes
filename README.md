@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/pran-avk/Leetcode-codes/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/pran-avk/Leetcode-codes/tree/master/0485-max-consecutive-ones) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/pran-avk/Leetcode-codes/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/pran-avk/Leetcode-codes/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/pran-avk/Leetcode-codes/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/pran-avk/Leetcode-codes/tree/master/1672-richest-customer-wealth) |
 | [2206-divide-array-into-equal-pairs](https://github.com/pran-avk/Leetcode-codes/tree/master/2206-divide-array-into-equal-pairs) |

@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pran-avk/Leetcode-codes/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/pran-avk/Leetcode-codes/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/pran-avk/Leetcode-codes/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/pran-avk/Leetcode-codes/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/pran-avk/Leetcode-codes/tree/master/1672-richest-customer-wealth) |
 | [2206-divide-array-into-equal-pairs](https://github.com/pran-avk/Leetcode-codes/tree/master/2206-divide-array-into-equal-pairs) |
 | [2460-apply-operations-to-an-array](https://github.com/pran-avk/Leetcode-codes/tree/master/2460-apply-operations-to-an-array) |
@@ -155,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/pran-avk/Leetcode-codes/tree/master/1672-richest-customer-wealth) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/pran-avk/Leetcode-codes/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->

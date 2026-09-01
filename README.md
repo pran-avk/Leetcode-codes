@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/pran-avk/Leetcode-codes/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/pran-avk/Leetcode-codes/tree/master/0485-max-consecutive-ones) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/pran-avk/Leetcode-codes/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0977-squares-of-a-sorted-array](https://github.com/pran-avk/Leetcode-codes/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pran-avk/Leetcode-codes/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/pran-avk/Leetcode-codes/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/pran-avk/Leetcode-codes/tree/master/1470-shuffle-the-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/pran-avk/Leetcode-codes/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/pran-avk/Leetcode-codes/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/pran-avk/Leetcode-codes/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0977-squares-of-a-sorted-array](https://github.com/pran-avk/Leetcode-codes/tree/master/0977-squares-of-a-sorted-array) |
 | [2460-apply-operations-to-an-array](https://github.com/pran-avk/Leetcode-codes/tree/master/2460-apply-operations-to-an-array) |
 ## Simulation
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/pran-avk/Leetcode-codes/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/pran-avk/Leetcode-codes/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/pran-avk/Leetcode-codes/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0977-squares-of-a-sorted-array](https://github.com/pran-avk/Leetcode-codes/tree/master/0977-squares-of-a-sorted-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pran-avk/Leetcode-codes/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/pran-avk/Leetcode-codes/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Monotonic Stack

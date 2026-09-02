@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/pran-avk/Leetcode-codes/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/pran-avk/Leetcode-codes/tree/master/0485-max-consecutive-ones) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/pran-avk/Leetcode-codes/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0643-maximum-average-subarray-i](https://github.com/pran-avk/Leetcode-codes/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/pran-avk/Leetcode-codes/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/pran-avk/Leetcode-codes/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/pran-avk/Leetcode-codes/tree/master/0922-sort-array-by-parity-ii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pran-avk/Leetcode-codes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/pran-avk/Leetcode-codes/tree/master/0643-maximum-average-subarray-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pran-avk/Leetcode-codes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Math
 |  |

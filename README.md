@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/pran-avk/Leetcode-codes/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/pran-avk/Leetcode-codes/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/pran-avk/Leetcode-codes/tree/master/0409-longest-palindrome) |
+| [0567-permutation-in-string](https://github.com/pran-avk/Leetcode-codes/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/pran-avk/Leetcode-codes/tree/master/0771-jewels-and-stones) |
 | [2206-divide-array-into-equal-pairs](https://github.com/pran-avk/Leetcode-codes/tree/master/2206-divide-array-into-equal-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pran-avk/Leetcode-codes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -68,12 +69,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pran-avk/Leetcode-codes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0383-ransom-note](https://github.com/pran-avk/Leetcode-codes/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/pran-avk/Leetcode-codes/tree/master/0409-longest-palindrome) |
+| [0567-permutation-in-string](https://github.com/pran-avk/Leetcode-codes/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/pran-avk/Leetcode-codes/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/pran-avk/Leetcode-codes/tree/master/0917-reverse-only-letters) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pran-avk/Leetcode-codes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/pran-avk/Leetcode-codes/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/pran-avk/Leetcode-codes/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/pran-avk/Leetcode-codes/tree/master/1004-max-consecutive-ones-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pran-avk/Leetcode-codes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/pran-avk/Leetcode-codes/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pran-avk/Leetcode-codes/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/pran-avk/Leetcode-codes/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/pran-avk/Leetcode-codes/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/pran-avk/Leetcode-codes/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0905-sort-array-by-parity](https://github.com/pran-avk/Leetcode-codes/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/pran-avk/Leetcode-codes/tree/master/0917-reverse-only-letters) |

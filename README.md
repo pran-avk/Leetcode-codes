@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/pran-avk/Leetcode-codes/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/pran-avk/Leetcode-codes/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/pran-avk/Leetcode-codes/tree/master/0203-remove-linked-list-elements) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pran-avk/Leetcode-codes/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/pran-avk/Leetcode-codes/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## String
@@ -207,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pran-avk/Leetcode-codes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/pran-avk/Leetcode-codes/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->

@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/pran-avk/Leetcode-codes/tree/master/1672-richest-customer-wealth) |
 | [1991-find-the-middle-index-in-array](https://github.com/pran-avk/Leetcode-codes/tree/master/1991-find-the-middle-index-in-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/pran-avk/Leetcode-codes/tree/master/2206-divide-array-into-equal-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/pran-avk/Leetcode-codes/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2460-apply-operations-to-an-array](https://github.com/pran-avk/Leetcode-codes/tree/master/2460-apply-operations-to-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pran-avk/Leetcode-codes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pran-avk/Leetcode-codes/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/pran-avk/Leetcode-codes/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/pran-avk/Leetcode-codes/tree/master/0771-jewels-and-stones) |
 | [2206-divide-array-into-equal-pairs](https://github.com/pran-avk/Leetcode-codes/tree/master/2206-divide-array-into-equal-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/pran-avk/Leetcode-codes/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pran-avk/Leetcode-codes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pran-avk/Leetcode-codes/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/pran-avk/Leetcode-codes/tree/master/3471-find-the-largest-almost-missing-integer) |

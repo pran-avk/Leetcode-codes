@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/pran-avk/Leetcode-codes/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/pran-avk/Leetcode-codes/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/pran-avk/Leetcode-codes/tree/master/1004-max-consecutive-ones-iii) |
+| [1207-unique-number-of-occurrences](https://github.com/pran-avk/Leetcode-codes/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pran-avk/Leetcode-codes/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/pran-avk/Leetcode-codes/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/pran-avk/Leetcode-codes/tree/master/1470-shuffle-the-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/pran-avk/Leetcode-codes/tree/master/0409-longest-palindrome) |
 | [0567-permutation-in-string](https://github.com/pran-avk/Leetcode-codes/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/pran-avk/Leetcode-codes/tree/master/0771-jewels-and-stones) |
+| [1207-unique-number-of-occurrences](https://github.com/pran-avk/Leetcode-codes/tree/master/1207-unique-number-of-occurrences) |
 | [2206-divide-array-into-equal-pairs](https://github.com/pran-avk/Leetcode-codes/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/pran-avk/Leetcode-codes/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pran-avk/Leetcode-codes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |

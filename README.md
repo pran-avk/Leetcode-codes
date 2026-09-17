@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/pran-avk/Leetcode-codes/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pran-avk/Leetcode-codes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/pran-avk/Leetcode-codes/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/pran-avk/Leetcode-codes/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/pran-avk/Leetcode-codes/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pran-avk/Leetcode-codes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pran-avk/Leetcode-codes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/pran-avk/Leetcode-codes/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pran-avk/Leetcode-codes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/pran-avk/Leetcode-codes/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/pran-avk/Leetcode-codes/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/pran-avk/Leetcode-codes/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/pran-avk/Leetcode-codes/tree/master/0383-ransom-note) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/pran-avk/Leetcode-codes/tree/master/0073-set-matrix-zeroes) |
 | [1672-richest-customer-wealth](https://github.com/pran-avk/Leetcode-codes/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
 |  |

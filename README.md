@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/pran-avk/Leetcode-codes/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/pran-avk/Leetcode-codes/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/pran-avk/Leetcode-codes/tree/master/0917-reverse-only-letters) |
+| [3498-reverse-degree-of-a-string](https://github.com/pran-avk/Leetcode-codes/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2460-apply-operations-to-an-array](https://github.com/pran-avk/Leetcode-codes/tree/master/2460-apply-operations-to-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pran-avk/Leetcode-codes/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/pran-avk/Leetcode-codes/tree/master/3498-reverse-degree-of-a-string) |
 | [4020-elevator-requests-i](https://github.com/pran-avk/Leetcode-codes/tree/master/4020-elevator-requests-i) |
 ## Stack
 |  |

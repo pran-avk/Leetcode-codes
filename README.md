@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pran-avk/Leetcode-codes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/pran-avk/Leetcode-codes/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/pran-avk/Leetcode-codes/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/pran-avk/Leetcode-codes/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pran-avk/Leetcode-codes/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pran-avk/Leetcode-codes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pran-avk/Leetcode-codes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/pran-avk/Leetcode-codes/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pran-avk/Leetcode-codes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pran-avk/Leetcode-codes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/pran-avk/Leetcode-codes/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pran-avk/Leetcode-codes/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/pran-avk/Leetcode-codes/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pran-avk/Leetcode-codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/pran-avk/Leetcode-codes/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/pran-avk/Leetcode-codes/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pran-avk/Leetcode-codes/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/pran-avk/Leetcode-codes/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/pran-avk/Leetcode-codes/tree/master/0455-assign-cookies) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/pran-avk/Leetcode-codes/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/pran-avk/Leetcode-codes/tree/master/0455-assign-cookies) |
 ## Matrix
 |  |
@@ -232,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/pran-avk/Leetcode-codes/tree/master/0203-remove-linked-list-elements) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/pran-avk/Leetcode-codes/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

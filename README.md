@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pran-avk/Leetcode-codes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0383-ransom-note](https://github.com/pran-avk/Leetcode-codes/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/pran-avk/Leetcode-codes/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/pran-avk/Leetcode-codes/tree/master/0412-fizz-buzz) |
 | [0567-permutation-in-string](https://github.com/pran-avk/Leetcode-codes/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/pran-avk/Leetcode-codes/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/pran-avk/Leetcode-codes/tree/master/0917-reverse-only-letters) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pran-avk/Leetcode-codes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/pran-avk/Leetcode-codes/tree/master/0189-rotate-array) |
+| [0412-fizz-buzz](https://github.com/pran-avk/Leetcode-codes/tree/master/0412-fizz-buzz) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pran-avk/Leetcode-codes/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pran-avk/Leetcode-codes/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pran-avk/Leetcode-codes/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/pran-avk/Leetcode-codes/tree/master/0412-fizz-buzz) |
 | [2460-apply-operations-to-an-array](https://github.com/pran-avk/Leetcode-codes/tree/master/2460-apply-operations-to-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pran-avk/Leetcode-codes/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/pran-avk/Leetcode-codes/tree/master/3498-reverse-degree-of-a-string) |

@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/pran-avk/Leetcode-codes/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/pran-avk/Leetcode-codes/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/pran-avk/Leetcode-codes/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/pran-avk/Leetcode-codes/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/pran-avk/Leetcode-codes/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/pran-avk/Leetcode-codes/tree/master/0409-longest-palindrome) |
 | [0567-permutation-in-string](https://github.com/pran-avk/Leetcode-codes/tree/master/0567-permutation-in-string) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pran-avk/Leetcode-codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pran-avk/Leetcode-codes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0242-valid-anagram](https://github.com/pran-avk/Leetcode-codes/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/pran-avk/Leetcode-codes/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/pran-avk/Leetcode-codes/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/pran-avk/Leetcode-codes/tree/master/0412-fizz-buzz) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/pran-avk/Leetcode-codes/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pran-avk/Leetcode-codes/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/pran-avk/Leetcode-codes/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/pran-avk/Leetcode-codes/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/pran-avk/Leetcode-codes/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/pran-avk/Leetcode-codes/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0905-sort-array-by-parity](https://github.com/pran-avk/Leetcode-codes/tree/master/0905-sort-array-by-parity) |

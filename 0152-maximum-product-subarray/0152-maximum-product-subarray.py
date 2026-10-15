@@ -7,7 +7,7 @@ class Solution(object):
                 currmax=currmin=1
                 continue
             temp=currmax*n
-            currmax=max(currmax*n,currmin*n,n)
+            currmax=max(temp,currmin*n,n)
             currmin=min(temp,currmin*n,n)
             res=max(res,currmax)
         return res

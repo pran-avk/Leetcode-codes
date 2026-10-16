@@ -5,5 +5,4 @@ class Solution(object):
         for i in range(1,len(nums)):
             pr[i]=nums[i]+pr[i-1]
         return pr
-
         

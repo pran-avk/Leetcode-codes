@@ -1,14 +1,16 @@
 class Solution(object):
     def maxProduct(self, nums):
+        mini=1
+        maxi=1
         res=max(nums)
-        currmin=currmax=1
         for n in nums:
             if n==0:
-                currmax=currmin=1
+                maxi=1
+                mini=1
                 continue
-            temp=currmax*n
-            currmax=max(temp,currmin*n,n)
-            currmin=min(temp,currmin*n,n)
-            res=max(res,currmax)
+            temp=maxi*n
+            maxi=max(maxi*n,mini*n,n)
+            mini=min(temp,mini*n,n)
+            res=max(res,maxi)
         return res
         

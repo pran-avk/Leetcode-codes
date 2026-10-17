@@ -6,14 +6,12 @@
 
 class Solution(object):
     def hasCycle(self, head):
-        if head is None:
-            return
-        a=b=head
-        while a.next and a.next.next:
-            a=a.next.next
-            b=b.next
-            if a==b:
+        if not head:
+            return False
+        fast=slow=head
+        while fast and fast.next:
+            slow=slow.next
+            fast=fast.next.next
+            if slow==fast:
                 return True
         return False
-
-        

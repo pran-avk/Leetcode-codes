@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/pran-avk/Leetcode-codes/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/pran-avk/Leetcode-codes/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/pran-avk/Leetcode-codes/tree/master/1991-find-the-middle-index-in-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/pran-avk/Leetcode-codes/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/pran-avk/Leetcode-codes/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/pran-avk/Leetcode-codes/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2460-apply-operations-to-an-array](https://github.com/pran-avk/Leetcode-codes/tree/master/2460-apply-operations-to-an-array) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/pran-avk/Leetcode-codes/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/pran-avk/Leetcode-codes/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/pran-avk/Leetcode-codes/tree/master/0977-squares-of-a-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/pran-avk/Leetcode-codes/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pran-avk/Leetcode-codes/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/pran-avk/Leetcode-codes/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Monotonic Stack
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pran-avk/Leetcode-codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/pran-avk/Leetcode-codes/tree/master/0268-missing-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/pran-avk/Leetcode-codes/tree/master/1004-max-consecutive-ones-iii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/pran-avk/Leetcode-codes/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |

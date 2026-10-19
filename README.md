@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/pran-avk/Leetcode-codes/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/pran-avk/Leetcode-codes/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/pran-avk/Leetcode-codes/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/pran-avk/Leetcode-codes/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/pran-avk/Leetcode-codes/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/pran-avk/Leetcode-codes/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/pran-avk/Leetcode-codes/tree/master/0771-jewels-and-stones) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/pran-avk/Leetcode-codes/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/pran-avk/Leetcode-codes/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/pran-avk/Leetcode-codes/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/pran-avk/Leetcode-codes/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/pran-avk/Leetcode-codes/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/pran-avk/Leetcode-codes/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/pran-avk/Leetcode-codes/tree/master/0917-reverse-only-letters) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pran-avk/Leetcode-codes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/pran-avk/Leetcode-codes/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/pran-avk/Leetcode-codes/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/pran-avk/Leetcode-codes/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/pran-avk/Leetcode-codes/tree/master/1004-max-consecutive-ones-iii) |

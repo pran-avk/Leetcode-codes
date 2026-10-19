@@ -4,7 +4,7 @@ class Solution(object):
         current_sum=0
         freq={0:1}
         for n in nums:
-            current_sum=current_sum+n
+            current_sum+=n
             needed=current_sum-k
             count+=freq.get(needed,0)
             freq[current_sum]=freq.get(current_sum,0)+1

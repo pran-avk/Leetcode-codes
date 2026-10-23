@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/pran-avk/Leetcode-codes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pran-avk/Leetcode-codes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/pran-avk/Leetcode-codes/tree/master/0226-invert-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/pran-avk/Leetcode-codes/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/pran-avk/Leetcode-codes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pran-avk/Leetcode-codes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/pran-avk/Leetcode-codes/tree/master/0226-invert-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/pran-avk/Leetcode-codes/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -315,4 +317,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pran-avk/Leetcode-codes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/pran-avk/Leetcode-codes/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->

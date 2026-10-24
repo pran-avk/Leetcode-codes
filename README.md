@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/pran-avk/Leetcode-codes/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pran-avk/Leetcode-codes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/pran-avk/Leetcode-codes/tree/master/0031-next-permutation) |
+| [0046-permutations](https://github.com/pran-avk/Leetcode-codes/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/pran-avk/Leetcode-codes/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/pran-avk/Leetcode-codes/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/pran-avk/Leetcode-codes/tree/master/0075-sort-colors) |
@@ -320,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pran-avk/Leetcode-codes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/pran-avk/Leetcode-codes/tree/master/0701-insert-into-a-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/pran-avk/Leetcode-codes/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->

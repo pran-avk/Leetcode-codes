@@ -9,3 +9,4 @@ class Solution(object):
             count+=freq.get(needed,0)
             freq[current_sum]=freq.get(current_sum,0)+1
         return count
+        

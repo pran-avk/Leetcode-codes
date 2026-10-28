@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/pran-avk/Leetcode-codes/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/pran-avk/Leetcode-codes/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/pran-avk/Leetcode-codes/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/pran-avk/Leetcode-codes/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/pran-avk/Leetcode-codes/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/pran-avk/Leetcode-codes/tree/master/0746-min-cost-climbing-stairs) |
 | [0905-sort-array-by-parity](https://github.com/pran-avk/Leetcode-codes/tree/master/0905-sort-array-by-parity) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pran-avk/Leetcode-codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/pran-avk/Leetcode-codes/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/pran-avk/Leetcode-codes/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/pran-avk/Leetcode-codes/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/pran-avk/Leetcode-codes/tree/master/1004-max-consecutive-ones-iii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pran-avk/Leetcode-codes/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation

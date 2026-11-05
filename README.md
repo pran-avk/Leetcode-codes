@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/pran-avk/Leetcode-codes/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/pran-avk/Leetcode-codes/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pran-avk/Leetcode-codes/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/pran-avk/Leetcode-codes/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/pran-avk/Leetcode-codes/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/pran-avk/Leetcode-codes/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/pran-avk/Leetcode-codes/tree/master/1480-running-sum-of-1d-array) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/pran-avk/Leetcode-codes/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/pran-avk/Leetcode-codes/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/pran-avk/Leetcode-codes/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/pran-avk/Leetcode-codes/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2460-apply-operations-to-an-array](https://github.com/pran-avk/Leetcode-codes/tree/master/2460-apply-operations-to-an-array) |
 ## Simulation
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/pran-avk/Leetcode-codes/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/pran-avk/Leetcode-codes/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/pran-avk/Leetcode-codes/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/pran-avk/Leetcode-codes/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pran-avk/Leetcode-codes/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pran-avk/Leetcode-codes/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/pran-avk/Leetcode-codes/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/pran-avk/Leetcode-codes/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/pran-avk/Leetcode-codes/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/pran-avk/Leetcode-codes/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/pran-avk/Leetcode-codes/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pran-avk/Leetcode-codes/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |

@@ -2,7 +2,7 @@ class Solution(object):
     def maxProduct(self, nums):
         maxi=1
         mini=1
-        res=max(nums)
+        max_prod=max(nums)
         for n in nums:
             if n==0:
                 maxi=1
@@ -11,6 +11,5 @@ class Solution(object):
             temp=maxi*n
             maxi=max(maxi*n,mini*n,n)
             mini=min(temp,mini*n,n)
-            res=max(maxi,res)
-        return res
-        
+            max_prod=max(max_prod,maxi)
+        return max_prod

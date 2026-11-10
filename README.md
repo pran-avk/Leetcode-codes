@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/pran-avk/Leetcode-codes/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/pran-avk/Leetcode-codes/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/pran-avk/Leetcode-codes/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/pran-avk/Leetcode-codes/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/pran-avk/Leetcode-codes/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/pran-avk/Leetcode-codes/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/pran-avk/Leetcode-codes/tree/master/0746-min-cost-climbing-stairs) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/pran-avk/Leetcode-codes/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/pran-avk/Leetcode-codes/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/pran-avk/Leetcode-codes/tree/master/0695-max-area-of-island) |
 | [1672-richest-customer-wealth](https://github.com/pran-avk/Leetcode-codes/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
 |  |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/pran-avk/Leetcode-codes/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/pran-avk/Leetcode-codes/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/pran-avk/Leetcode-codes/tree/master/0617-merge-two-binary-trees) |
+| [0695-max-area-of-island](https://github.com/pran-avk/Leetcode-codes/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/pran-avk/Leetcode-codes/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/pran-avk/Leetcode-codes/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/pran-avk/Leetcode-codes/tree/master/0617-merge-two-binary-trees) |
+| [0695-max-area-of-island](https://github.com/pran-avk/Leetcode-codes/tree/master/0695-max-area-of-island) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -364,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/pran-avk/Leetcode-codes/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/pran-avk/Leetcode-codes/tree/master/0695-max-area-of-island) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |

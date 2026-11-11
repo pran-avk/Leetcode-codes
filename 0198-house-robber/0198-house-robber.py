@@ -7,6 +7,6 @@ class Solution(object):
         dp[1]=max(nums[0],nums[1])
         for i in range(2,len(nums)):
             dp[i]=max(dp[i-1],dp[i-2]+nums[i])
-        n=len(nums)
-        return dp[n-1]
+        return dp[-1]
+
         

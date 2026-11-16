@@ -13,4 +13,5 @@ class Solution(object):
                 nums[mid],nums[high]=nums[high],nums[mid]
                 high-=1
         return nums
+            
         

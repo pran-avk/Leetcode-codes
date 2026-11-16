@@ -2,13 +2,12 @@ class Solution(object):
     def maxArea(self, height):
         i=0
         j=len(height)-1
-        cap=0
+        total=0
         while i<j:
-            a=min(height[i],height[j])
-            cap=max(cap,a*(j-i))
-            if height[i]<height[j]:
-                i+=1
-            else:
+            if height[i]>height[j]:
+                total=max(total,height[j]*((j-i)))
                 j-=1
-        return cap
-        
+            else:
+                total=max(total,height[i]*((j-i)))
+                i+=1
+        return total

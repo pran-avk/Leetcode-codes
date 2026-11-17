@@ -6,16 +6,18 @@
 #         self.right = right
 class Solution(object):
     def isSymmetric(self, root):
-        def sym(x,y):
-            if x is None and y is None:
-                return True
-            elif x is None or y is None:
-                return False
-            if x.val!=y.val:
-                return False
-            else:
-                return sym(x.left,y.right) and sym(x.right,y.left)
-        if root is None:
+        if not root:
             return True
+        def sym(a1,a2):
+            if not a1 and not a2:
+                return True
+            elif not a1 or not a2:
+                return False
+            elif a1.val!=a2.val:
+                return False
+            b=sym(a1.left,a2.right)
+            c=sym(a1.right,a2.left)
+            return b&c
         return sym(root.left,root.right)
+
         

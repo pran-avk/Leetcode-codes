@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/pran-avk/Leetcode-codes/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/pran-avk/Leetcode-codes/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pran-avk/Leetcode-codes/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/pran-avk/Leetcode-codes/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/pran-avk/Leetcode-codes/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/pran-avk/Leetcode-codes/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/pran-avk/Leetcode-codes/tree/master/0485-max-consecutive-ones) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/pran-avk/Leetcode-codes/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/pran-avk/Leetcode-codes/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/pran-avk/Leetcode-codes/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/pran-avk/Leetcode-codes/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/pran-avk/Leetcode-codes/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/pran-avk/Leetcode-codes/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/pran-avk/Leetcode-codes/tree/master/0746-min-cost-climbing-stairs) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/pran-avk/Leetcode-codes/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/pran-avk/Leetcode-codes/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/pran-avk/Leetcode-codes/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/pran-avk/Leetcode-codes/tree/master/0322-coin-change) |
 | [0617-merge-two-binary-trees](https://github.com/pran-avk/Leetcode-codes/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/pran-avk/Leetcode-codes/tree/master/0695-max-area-of-island) |
 ## Binary Tree
@@ -435,4 +438,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/pran-avk/Leetcode-codes/tree/master/0148-sort-list) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/pran-avk/Leetcode-codes/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/pran-avk/Leetcode-codes/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
